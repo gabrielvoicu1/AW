@@ -2,7 +2,8 @@
 <html lang="es"> 
 <head> 
 <meta charset="UTF-8"> 
-<title>Registro de usuario</title> 
+<title>Registro de usuario</title>
+<link rel="stylesheet" href="estilos.css"> 
 </head> 
 <body> 
 <h1>Registro</h1> 
