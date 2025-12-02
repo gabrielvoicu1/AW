@@ -1,3 +1,5 @@
-
-Gabriel:$2y$10$SKUVuPJqyLBvl6SWVfw4b.F1mkHJ05gt6Z/mT0kAkyCutcCT2h.T2
-Juan:$2y$10$595KinZcanaQPhns7KoDLONEi41.esv8FK4idwLCzawIKTe1q4Jv.
+Gabriel:$2y$10$ZfYgwWqn7GMYv0XcijhziO.2p8ISXiU5KIa0SVyGOqy2WtJsh5Kbe
+Juan:$2y$10$1r/EAG8gZQ/x.R0mIIoo7.minUFBXIlAywjU/kMl.Ixi0H3XvIjwW
+Cristian:$2y$10$4pnqLhWoOIGZ7O2tRUETeelDu9HZ9pw2dZ0FDFjKnpVj/Eioj.4MC
+Catalin:$2y$10$XzDv2Yc43d2dfjPWiCSdF.DhS0NVQSPoB8KFMeQTsdoUsUaA0ZLc2
+Maria:$2y$10$XDChFNZCQSWFT..ZxcHLCOxJVYM5qInADMxs1qdrIUDhlLuRx/yEG
